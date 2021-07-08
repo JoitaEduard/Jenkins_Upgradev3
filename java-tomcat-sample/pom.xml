@@ -39,6 +39,8 @@
           </execution>
         </executions>
       </plugin>
+      <artifactId>maven-war-plugin</artifactId>
+            <version>2.2</version>
     </plugins>
   </build>
 </project>
